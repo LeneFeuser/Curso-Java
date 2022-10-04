@@ -10,5 +10,5 @@ public class Programa02 {
 	
 	System.out.println("Eu tenho " + idade + " anos");
 	}
-OI
+
 }
